@@ -73,4 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /Pak
-/Releases
+/Releases/**/*.pak
+/Releases/**/*.ucas
+/Releases/**/*.utoc
