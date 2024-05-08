@@ -76,3 +76,6 @@ DerivedDataCache/*
 /Releases/**/*.pak
 /Releases/**/*.ucas
 /Releases/**/*.utoc
+/Content/ParagonBoris
+/Content/ParagonCrunch
+/Content/ParagonKhaimera
